@@ -141,7 +141,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **176** |
 | ⭐ แนะนำ | **0** |
-| 🔄 อัปเดตล่าสุด | **วันจันทร์ที่ 20 เมษายน พ.ศ. 2569 เวลา 12 นาฬิกา 44 นาที 26 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันจันทร์ที่ 20 เมษายน พ.ศ. 2569 เวลา 13 นาฬิกา 04 นาที 16 วินาที UTC** |
 
 </div>
 
@@ -6436,6 +6436,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-20T12:44:26.783Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-20T13:04:16.449Z</sub>
 
 </div>
